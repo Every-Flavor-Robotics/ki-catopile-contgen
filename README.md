@@ -1,4 +1,7 @@
-# KiCad to Atopile Context Generator
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/cc20e7e0-8ac2-4424-9ced-4809b6f83f71" />
+
+-------
 
 *Written with GLM-5.1 with Opencode*
 
